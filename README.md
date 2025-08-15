@@ -5,7 +5,7 @@
 
 I’m passionate about building scalable, user-friendly applications with the **MERN stack**, Python, and cloud tools. I also enjoy solving algorithmic problems and have contributed to research in machine learning.
 
-- 🔭 Recent projects: **Book Store Management**, **Online Food Delivery System**, **Titanic Survival Prediction**
+- 🔭 Recent projects: **Book Store Management**, **Online Food Delivery System**, **Titanic Survival Prediction**, **Mental Health Support Platform**
 - 💡 Interests: Full‑stack development, system design, cloud integration, data-driven solutions
 - ✉️ Reach me: **pothurahul20@gmail.com**
 - 🧭 Portfolio: *Coming Soon*
@@ -13,14 +13,25 @@ I’m passionate about building scalable, user-friendly applications with the **
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Technologies & Tools
 
-**Programming:** C • Python • JavaScript  
-**Frontend:** HTML • CSS • Tailwind CSS • React.js  
-**Backend:** Node.js • Express.js • REST APIs  
-**Database:** MongoDB • MySQL  
-**Cloud & Tools:** Supabase • Git • GitHub • Postman • VS Code  
-**Soft Skills:** Team Collaboration • Communication • Leadership • Problem Solving
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -38,48 +49,45 @@ I’m passionate about building scalable, user-friendly applications with the **
   _Stack:_ Python • Pandas • Scikit-Learn  
   **Code:** https://github.com/RahulO1/Titanic-Survival-Predictor
 
-- **Mental Health Support Platform** — A supportive web platform offering users mental health awareness information, a personalized survey, and referral pathways to professional
-counselors. Built with a responsive frontend and intuitive navigation to foster community and support.  
+- **Mental Health Support Platform** — A supportive web platform offering users mental health awareness information, a personalized survey, and referral pathways to professional counselors. Built with a responsive frontend and intuitive navigation to foster community and support.  
   _Stack:_ HTML • CSS • JavaScript  
-  **Live Demo / View:** https://rahulo1.github.io/Mental_Health_Support_Platform/  
+  **Live Demo:** https://rahulo1.github.io/Mental_Health_Support_Platform/  
   **Code:** https://github.com/RahulO1/Mental_Health_Support_Platform
 
 ---
 
 ## 📊 GitHub Stats
 
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulO1&show_icons=true&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulO1&layout=compact)
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulO1&show_icons=true&theme=radical)
 
 ---
 
-## 🔥 Streak
+## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RahulO1)
+![GitHub Streak](https://streak-stats.demolab.com?user=RahulO1&theme=radical)
 
 ---
 
 ## 🌐 Connect with Me
 
-- **LinkedIn:** https://www.linkedin.com/in/pothu-rahul  
-- **GitHub:** https://github.com/RahulO1  
-- **Email:** pothurahul20@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pothu-rahul)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahulO1)  
+[![Resume](https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=files&logoColor=white)](#)
 
 ---
 
 ## 🏆 Achievements
 
-- Published research paper in ASIANCON 2024 on *Titanic Survival Prediction using ML Algorithms*.
-- Ranked Top 30% in HackerRank Programming Hackathon 2023.
--Participated in the All India Inter-University Football Tournament (South Zone) held at University of Calicut, Kerala, from 23rd Dec 2022 to 2nd Jan 2023, representing SR University.
+- **Published Research Paper:** Presented at ASIANCON 2024 on *Titanic Survival Prediction using ML Algorithms*.
+- **Hackathon Recognition:** Ranked Top 30% in HackerRank Programming Hackathon 2023.
+- **Sports Achievement:** Represented SR University in the All India Inter-University Football Tournament (South Zone), held at University of Calicut, Kerala (Dec 2022 – Jan 2023).
 
 ---
 
 ## 📜 Patents
 
-- *Integrated Home Ownership and Management System* — Indian Patent No. 202541022088, Granted 2025.
-- *Construction Property Inspection and Renovation Assistance Device* — Indian Patent No. 202541035555, Granted 2025.
+- **Integrated Home Ownership and Management System** — Indian Patent No. 202541022088, Granted 2025.
+- **Construction Property Inspection and Renovation Assistance Device** — Indian Patent No. 202541035555, Granted 2025.
 
 ---
 
