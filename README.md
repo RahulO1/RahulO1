@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pothu Rahul</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;MERN+Stack+Developer;ML+Enthusiast;Cloud+in+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;MERN+Stack+Developer;ML+Enthusiast;Cloud+in+AWS;Web+Developer" alt="Typing SVG" />
 </p>
 
 - I am a Final year BTech student in Computer Science and Engineering
