@@ -9,7 +9,7 @@ I’m passionate about building scalable, user-friendly applications with the **
 - 💡 Interests: Full‑stack development, system design, cloud integration, data-driven solutions
 - ✉️ Reach me: **pothurahul20@gmail.com**
 - 🧭 Portfolio: *Coming Soon*
-- 📄 Resume: **[View Resume](#)** <!-- replace # with resume link -->
+- 📄 Resume: **[View Resume](#)** <!--(https://drive.google.com/file/d/1ZcgGBUQ7HgR0esUNAupjXk5mgjNxYNvo/view?usp=sharing) -->
 
 ---
 
